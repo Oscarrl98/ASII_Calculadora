@@ -1,10 +1,10 @@
-#ASII Calculadora
+# ASII Calculadora
 
-##Integrantes
--Oscar
+## Integrantes 
+-Oscar 
 -Samuel
 -Gustavo
 
-###ANSII Sección A
+### ANSII Sección A
 
 
