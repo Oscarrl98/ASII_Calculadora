@@ -1,12 +1,11 @@
-#ASII Calculadora
+# ASII Calculadora
 
-##Integrantes
-
+## Integrantes 
 - Oscar
 - Samuel
 - Gustavo
 
-###ANSII Sección A
+### ANSII Sección A
 
 * Oscar
 * Samuel
