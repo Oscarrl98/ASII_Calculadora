@@ -12,7 +12,7 @@ public class Calculadora implements ICalculadora{
 	public int dividir(int a, int b){
 	return 0;
 	}
-	public int factorial(int a, int b){
+	public int factorial(int a){
 	return 0;
 	}
 	public int modulo(int a, int b){
