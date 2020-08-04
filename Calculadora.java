@@ -18,5 +18,4 @@ public class Calculadora implements ICalculadora{
 	public int modulo(int a, int b){
 	return a%2;
 	}
-
 }
