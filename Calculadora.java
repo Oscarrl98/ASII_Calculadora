@@ -16,7 +16,7 @@ public class Calculadora implements ICalculadora{
 	return 0;
 	}
 	public int modulo(int a, int b){
-	return 0;
+	return a%2;
 	}
 
 }
