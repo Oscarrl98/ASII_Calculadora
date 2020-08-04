@@ -4,5 +4,5 @@ public interface ICalculadora{
 	public int multiplicacion(int a,int b);
 	public int division(int a,int b);
 	public int modulo(int a,int b);
-	public int factorial(int a,int b);
+	public int factorial(int a);
 }
