@@ -4,13 +4,13 @@ public class Calculadora implements ICalculadora{
 	return a+b;
 	}
 	public int restar(int a, int b){
-	return 0;
+	return a-b;
 	}
 	public int multiplicar(int a, int b){
-	return 0;
+	return a*b;
 	}
 	public int dividir(int a, int b){
-	return 0;
+	return a/b;
 	}
 	public int factorial(int a, int b){
 	return 0;
