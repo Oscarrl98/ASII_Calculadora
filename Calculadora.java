@@ -1,7 +1,7 @@
 public class Calculadora implements ICalculadora{
 
 	public int sumar(int a, int b){
-	return 0;
+	return a+b;
 	}
 	public int restar(int a, int b){
 	return 0;
